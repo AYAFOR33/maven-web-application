@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmarkproject releases Nexus Repository</name>
-	      <url>http://localhost:8081/repository/landmarkproject/</url>
+	      <name>jeff</name>
+	      <url>http://localhost:8081/repository/jeff/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmarkproject Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/landmarksnapshot/</url>
+	      <name>jeff.snapshot</name>
+	      <url>http://localhost:8081/repository/jeff.snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
